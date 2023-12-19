@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="resources">
+    <file>cil-account-logout.png</file>
+    <file>icon_prof.png</file>
+    <file>menu-icon.png</file>
+  </qresource>
+</RCC>
